@@ -1,0 +1,77 @@
+/* #div1{
+    width:70%;
+    float:left;
+    background-color: cornflowerblue;
+}
+#div2{
+    width:30%;
+    float: left;
+    background-color: darkgreen;
+}
+h1{
+    font-size:80px;
+} */                   /*......normal destop ka liya ....................*/
+
+/*#div1{
+    width:70%;
+    float:left;
+    background-color: rgb(58, 112, 211);
+}
+#div2{
+    width:30%;
+    float: left;
+    background-color: darkgreen;
+}
+h1{
+    font-size:80px;
+}
+@media screen and (max-width:768px){
+    #div1{
+        width:50%;
+    }
+    #div2{
+        width:50%;
+    }
+}
+@media screen and (max-width:400px){
+    #div1{
+        width:100%;
+    }
+    #div2{
+        width:100%;
+        color:white;
+        background-color: black;
+    }
+} */
+
+/* li{
+    color:red;
+} */
+
+/*.list5{
+    color:red;
+} */
+
+/* a:hover{
+    color:red;
+} */
+
+/* p::first-line{
+    color:red;
+} */
+
+/* a[href="https://www.google.com"]{
+    color:red;
+} */
+
+/* input[type="password"]{
+    color:red;
+} */
+
+/*{
+    border:1px solid red;
+} */
+
+div>a{
+    color:red;
+}
